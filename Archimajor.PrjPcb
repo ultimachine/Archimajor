@@ -343,6 +343,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document19]
+DocumentPath=..\..\..\AppData\Local\Temp\Revisions\[Revision 6995739e0d04e9e5eef0d6821c1486f2ce527c81] FPGA.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=ProjectOutputs\Assembly\Archimajor.cvg
 DItemRevisionGUID=
@@ -460,120 +477,232 @@ DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.txt
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\eda\data
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.G1
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bot_gnd\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\brd_outline\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mid1\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\power_plane\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_gnd\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_layer\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_paste\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_solder\features
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=ProjectOutputs\Assembly\odb\matrix\matrix
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.xls
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for Archimajor\Move Component(s) Origin To Grid - Archimajor.html
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_BOM.txt
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_BOM.xls
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\profile
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.csv
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\stephdr
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.txt
 DItemRevisionGUID=
 
 [GeneratedDocument57]
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.xls
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bot_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\brd_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\power_plane\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=ProjectOutputs\Assembly\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Archimajor\Move Component(s) Origin To Grid - Archimajor.html
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
 DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
 Name=projectBoardVersion
-Value=0.2a
+Value=0.2b
 
 [Parameter2]
 Name=projectDesigner
@@ -593,7 +722,7 @@ Value=Archimajor
 
 [Parameter6]
 Name=projectVersion
-Value=0.2a
+Value=0.2b
 
 [Configuration1]
 Name=Sources
@@ -753,7 +882,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=KONICA MINOLTA C360SeriesPCL
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
