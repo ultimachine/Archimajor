@@ -1,14 +1,15 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:11:47 PM On 10/26/2023
+Start Output Generation At 3:49:14 PM On 11/2/2023
 
-Output: IPC-2581 Files
-Type  : IPC2581
-From  : PCB Document [Archimajor.PcbDoc]
-   Generated File[Archimajor.cvg]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Archimajor.PcbDoc]
+   Generated File[Archimajor_1.0a_PickPlace.txt]
+   Generated File[Archimajor_1.0a_PickPlace.csv]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 10:13:55 PM On 10/26/2023
+Finished Output Generation At 3:49:52 PM On 11/2/2023

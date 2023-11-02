@@ -1,0 +1,913 @@
+Removed Member From Class: ClassName=PWR_INPUT Member=VBED
+Removed Member From Class: ClassName=PWR_INPUT Member=VPWR
+Change Component DesignItemId : Designator=R110A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R110H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R111H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R112H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R113H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R164H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R165H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R166H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167A Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167B Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167C Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167D Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167E Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167F Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167G Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R167H Old DesignItemId=1K 1% 0402 New DesignItemId=100R 1% 0402
+Change Component DesignItemId : Designator=R61 Old DesignItemId=ERJ2GEJ105X New DesignItemId=1M 5% 0402
+Change Component Footprint: Designator=R61 Old Footprint=R0402TBD New Footprint=R0402
+Change Component Comment : Designator=R110A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R110H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R111H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R112H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R113H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R164H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R165H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R166H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167A Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167B Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167C Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167D Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167E Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167F Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167G Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R167H Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R61 Old Comment=R0402TBD New Comment=1M
+Change Component Description : Designator=R110A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R110H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R111H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R112H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R113H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R164H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R165H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R166H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167A Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167B Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167C Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167D Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167E Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167F Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167G Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Description : Designator=R167H Old Description=RES 0402 1K 63mW 1% New Description=RES SMD 100 OHM 1% 1/16W 0402
+Change Component Library : Designator=R61 Old Library=Tigershark3D.SchLib New Library=Resistors.SchLib
+Change component parameters: Designator = "R61" ("R61"); Footprint = "R0402TBD"; UniqueID = "\LEMBTJPV\FLEAUVXC" ("\LEMBTJPV\FLEAUVXC")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "P1.0MJTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "ERJ2GEJ105X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "1M 5% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "1M Ohm ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110A" ("R110"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\MEKHNEUE" ("\1QIWLGASR\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110B" ("R110"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\MEKHNEUE" ("\2QIWLGASR\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110C" ("R110"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\MEKHNEUE" ("\3QIWLGASR\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110D" ("R110"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\MEKHNEUE" ("\4QIWLGASR\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110E" ("R110"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\MEKHNEUE" ("\5KYTXSLJP\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110F" ("R110"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\MEKHNEUE" ("\6KYTXSLJP\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110G" ("R110"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\MEKHNEUE" ("\7KYTXSLJP\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110H" ("R110"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\MEKHNEUE" ("\8KYTXSLJP\MEKHNEUE")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111A" ("R111"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\BXPBXBPV" ("\1QIWLGASR\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111B" ("R111"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\BXPBXBPV" ("\2QIWLGASR\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111C" ("R111"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\BXPBXBPV" ("\3QIWLGASR\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111D" ("R111"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\BXPBXBPV" ("\4QIWLGASR\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111E" ("R111"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\BXPBXBPV" ("\5KYTXSLJP\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111F" ("R111"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\BXPBXBPV" ("\6KYTXSLJP\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111G" ("R111"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\BXPBXBPV" ("\7KYTXSLJP\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111H" ("R111"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\BXPBXBPV" ("\8KYTXSLJP\BXPBXBPV")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112A" ("R112"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\HYTJFUWW" ("\1QIWLGASR\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112B" ("R112"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\HYTJFUWW" ("\2QIWLGASR\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112C" ("R112"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\HYTJFUWW" ("\3QIWLGASR\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112D" ("R112"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\HYTJFUWW" ("\4QIWLGASR\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112E" ("R112"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\HYTJFUWW" ("\5KYTXSLJP\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112F" ("R112"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\HYTJFUWW" ("\6KYTXSLJP\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112G" ("R112"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\HYTJFUWW" ("\7KYTXSLJP\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112H" ("R112"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\HYTJFUWW" ("\8KYTXSLJP\HYTJFUWW")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113A" ("R113"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\PGTRKOYP" ("\1QIWLGASR\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113B" ("R113"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\PGTRKOYP" ("\2QIWLGASR\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113C" ("R113"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\PGTRKOYP" ("\3QIWLGASR\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113D" ("R113"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\PGTRKOYP" ("\4QIWLGASR\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113E" ("R113"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\PGTRKOYP" ("\5KYTXSLJP\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113F" ("R113"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\PGTRKOYP" ("\6KYTXSLJP\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113G" ("R113"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\PGTRKOYP" ("\7KYTXSLJP\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113H" ("R113"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\PGTRKOYP" ("\8KYTXSLJP\PGTRKOYP")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164A" ("R164"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\KYGJMKVO" ("\1QIWLGASR\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164B" ("R164"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\KYGJMKVO" ("\2QIWLGASR\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164C" ("R164"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\KYGJMKVO" ("\3QIWLGASR\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164D" ("R164"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\KYGJMKVO" ("\4QIWLGASR\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164E" ("R164"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\KYGJMKVO" ("\5KYTXSLJP\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164F" ("R164"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\KYGJMKVO" ("\6KYTXSLJP\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164G" ("R164"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\KYGJMKVO" ("\7KYTXSLJP\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164H" ("R164"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\KYGJMKVO" ("\8KYTXSLJP\KYGJMKVO")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165A" ("R165"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\YOYRERXQ" ("\1QIWLGASR\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165B" ("R165"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\YOYRERXQ" ("\2QIWLGASR\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165C" ("R165"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\YOYRERXQ" ("\3QIWLGASR\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165D" ("R165"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\YOYRERXQ" ("\4QIWLGASR\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165E" ("R165"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\YOYRERXQ" ("\5KYTXSLJP\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165F" ("R165"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\YOYRERXQ" ("\6KYTXSLJP\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165G" ("R165"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\YOYRERXQ" ("\7KYTXSLJP\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R165H" ("R165"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\YOYRERXQ" ("\8KYTXSLJP\YOYRERXQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166A" ("R166"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\GJDEIUIQ" ("\1QIWLGASR\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166B" ("R166"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\GJDEIUIQ" ("\2QIWLGASR\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166C" ("R166"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\GJDEIUIQ" ("\3QIWLGASR\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166D" ("R166"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\GJDEIUIQ" ("\4QIWLGASR\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166E" ("R166"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\GJDEIUIQ" ("\5KYTXSLJP\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166F" ("R166"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\GJDEIUIQ" ("\6KYTXSLJP\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166G" ("R166"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\GJDEIUIQ" ("\7KYTXSLJP\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R166H" ("R166"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\GJDEIUIQ" ("\8KYTXSLJP\GJDEIUIQ")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167A" ("R167"); Footprint = "R0402"; UniqueID = "\1QIWLGASR\BVKRDXDF" ("\1QIWLGASR\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167B" ("R167"); Footprint = "R0402"; UniqueID = "\2QIWLGASR\BVKRDXDF" ("\2QIWLGASR\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167C" ("R167"); Footprint = "R0402"; UniqueID = "\3QIWLGASR\BVKRDXDF" ("\3QIWLGASR\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167D" ("R167"); Footprint = "R0402"; UniqueID = "\4QIWLGASR\BVKRDXDF" ("\4QIWLGASR\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167E" ("R167"); Footprint = "R0402"; UniqueID = "\5KYTXSLJP\BVKRDXDF" ("\5KYTXSLJP\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167F" ("R167"); Footprint = "R0402"; UniqueID = "\6KYTXSLJP\BVKRDXDF" ("\6KYTXSLJP\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167G" ("R167"); Footprint = "R0402"; UniqueID = "\7KYTXSLJP\BVKRDXDF" ("\7KYTXSLJP\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R167H" ("R167"); Footprint = "R0402"; UniqueID = "\8KYTXSLJP\BVKRDXDF" ("\8KYTXSLJP\BVKRDXDF")
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "311-100LRTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "100R 1% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "100 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100R"; VariantName = "[No Variations]"
