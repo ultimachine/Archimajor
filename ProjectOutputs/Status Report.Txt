@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:11:47 PM On 10/26/2023
+
+Output: IPC-2581 Files
+Type  : IPC2581
+From  : PCB Document [Archimajor.PcbDoc]
+   Generated File[Archimajor.cvg]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:13:55 PM On 10/26/2023

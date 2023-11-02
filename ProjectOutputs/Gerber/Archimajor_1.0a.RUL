@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: D:\Users\Secondary\Documents\Projects\Archimajor\Archimajor.PcbDoc
+RuleKind=Clearance|RuleName=Internal Positive Layer|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=Via SolderMask|Scope=Board|Minimum=-15.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=Global SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_USB|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_PWR_INPUT_POLYGONS|Scope=Board|Minimum=10.00

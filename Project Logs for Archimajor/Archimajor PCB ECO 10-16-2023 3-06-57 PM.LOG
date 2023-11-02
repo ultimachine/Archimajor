@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VPWR Pin=R103-1
+Removed Pin From Net: NetName=VFAN Pin=R103-2
+Added Component: Designator=PTC1(PTC_0ZCF)
+Add component (AddParameter): Name = "DISTRIBUTOR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DISTRIBUTOR #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EE_SPEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "Bel Fuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER #"; Value = "0ZCF0110AF2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART"; Value = "0ZCF0110AF2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESCRIPTION"; Value = "Polymeric PTC Resettable Fuse 60V 1.1 A Ih Surface Mount 2920 (7351 Metric), Concave"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VPWR Pin=PTC1-1
+Added Pin To Net: NetName=VFAN Pin=PTC1-2

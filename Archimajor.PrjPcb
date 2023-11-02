@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=1
@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -293,23 +295,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EHQYCXAN
 
 [Document16]
-DocumentPath=Archimajor.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
 DocumentPath=Microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,369 +328,142 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=Components.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=ProjectOutputs\Assembly\Archimajor.cvg
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.G1
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.NET
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=ProjectOutputs\ExportSTEP\Archimajor_0.1b.step
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_BOM.txt
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_odb
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.csv
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.txt
-DItemRevisionGUID=
-
-[GeneratedDocument30]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument2]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument3]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.G1
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument4]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument5]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument6]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument7]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument8]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument9]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument10]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument11]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GM9
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument12]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument13]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument14]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GP3
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument15]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument16]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument17]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument18]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument19]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument20]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.REP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument21]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument22]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument23]
 DocumentPath=ProjectOutputs\Gerber\Archimajor_0.2a.xls
 DItemRevisionGUID=
 
-[GeneratedDocument53]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_BOM.txt
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_BOM.xls
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.csv
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.txt
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.2b_PickPlace.xls
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument61]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bot_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\brd_outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\power_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=ProjectOutputs\Assembly\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Archimajor\Move Component(s) Origin To Grid - Archimajor.html
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument85]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
 [Parameter1]
-Name=projectBoardVersion
-Value=0.2b
+Name=projectVersion
+Value=1.0a
 
 [Parameter2]
-Name=projectDesigner
-Value=UltiMachine
-
-[Parameter3]
-Name=projectdocumentNumber
-Value=.
-
-[Parameter4]
-Name=projectDocumentRevision
-Value=a
-
-[Parameter5]
 Name=projectTitle
 Value=Archimajor
 
+[Parameter3]
+Name=projectDocumentRevision
+Value=a
+
+[Parameter4]
+Name=projectdocumentNumber
+Value=.
+
+[Parameter5]
+Name=projectDesigner
+Value=UltiMachine
+
 [Parameter6]
-Name=projectVersion
-Value=0.2b
+Name=projectBoardVersion
+Value=1.0a
 
 [Configuration1]
 Name=Sources
@@ -759,7 +517,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -865,7 +623,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=KONICA MINOLTA C360SeriesPS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -977,11 +735,17 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1003,7 +767,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1075,7 +839,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1112,7 +876,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1216,83 +980,11 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1336,7 +1028,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1397,7 +1089,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1523,6 +1215,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1591,6 +1285,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1599,33 +1295,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=0
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1636,15 +1332,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1652,10 +1348,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=0
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1693,7 +1389,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -1715,6 +1411,9 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNNNNNWW
@@ -1738,6 +1437,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1758,6 +1458,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Any
 ComponentLibraryIdentifier0=
@@ -2793,15 +2494,16 @@ ModelUpdate74=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

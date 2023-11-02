@@ -1,0 +1,13 @@
+Added Component: Designator=D108(SMF)
+Add component (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DISTRIBUTOR #"; Value = "SMF30A-E3-08GITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EE_SPEC"; Value = "30Vrs 48.4Vc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER #"; Value = "SMF30A-E3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART"; Value = "TVS Diode 48.4VC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESCRIPTION"; Value = "TVS DIODE 30VWM 48.4VC SMF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = "-NA-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "-NA-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D108-A
+Added Pin To Net: NetName=VFAN Pin=D108-K

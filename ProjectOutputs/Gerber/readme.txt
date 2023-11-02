@@ -1,8 +1,8 @@
-Readme File for Printed Circuit Board 'Archimajor_Panel_0.2b'
+Readme File for Printed Circuit Board 'Archimajor_Panel_1.0a'
 
 Board Specification
 Part Number            Archimajor
-Revision               0.2b
+Revision               1.0a
 Board size             140 x 190mm
 Board Thickness        1.524mm (0.06")
 Board type             Rigid
