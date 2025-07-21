@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Users\Secondary\Documents\Projects\Archimajor\Archimajor.PcbDoc
-Date     : 11/2/2023
-Time     : 1:27:52 PM
+Date     : 7/21/2025
+Time     : 1:24:29 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (OnLayer('Mid1')),(All)
 Rule Violations :0
@@ -22,7 +22,67 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=6mil) (Max=380mil) (Preferred=8mil) (All)
-Rule Violations :0
+   Violation between Width Constraint: Between Pad C123A-1(-5639.732mil,610.034mil) on Top Layer And Via (-5606.732mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123B-1(-4821.818mil,610.034mil) on Top Layer And Via (-4788.818mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123C-1(-4006.547mil,610.993mil) on Top Layer And Via (-3973.547mil,598.221mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123D-1(-3185.991mil,610.034mil) on Top Layer And Via (-3152.991mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123E-1(-2370.72mil,607.057mil) on Top Layer And Via (-2337.72mil,594.285mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123F-1(-1550.165mil,610.034mil) on Top Layer And Via (-1517.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123G-1(-737.165mil,610.034mil) on Top Layer And Via (-704.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C123H-1(75.835mil,610.034mil) on Top Layer And Via (108.835mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad C14-1(682.836mil,77.382mil) on Top Layer And Via (717.827mil,43.062mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad D72-A(-2697.991mil,2357.162mil) on Top Layer And Via (-2690.693mil,2377.614mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad D73-A(-2697.991mil,2398.5mil) on Top Layer And Via (-2690.693mil,2377.614mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (108.835mil,597.262mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (108.835mil,597.262mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (108.835mil,597.262mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (125.568mil,547.75mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (125.568mil,547.75mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (125.568mil,547.75mil) from Top Layer to Bottom Layer And Via (125.568mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-1517.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-1517.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-1500.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-1517.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,544.773mil) from Top Layer to Bottom Layer And Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,544.773mil) from Top Layer to Bottom Layer And Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,544.773mil) from Top Layer to Bottom Layer And Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer And Via (-2337.72mil,594.285mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer And Via (-2337.72mil,594.285mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-2320.988mil,572.458mil) from Top Layer to Bottom Layer And Via (-2337.72mil,594.285mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,547.75mil) from Top Layer to Bottom Layer And Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,547.75mil) from Top Layer to Bottom Layer And Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,547.75mil) from Top Layer to Bottom Layer And Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer And Via (-3152.991mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer And Via (-3152.991mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3136.259mil,575.435mil) from Top Layer to Bottom Layer And Via (-3152.991mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,548.71mil) from Top Layer to Bottom Layer And Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,548.71mil) from Top Layer to Bottom Layer And Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,548.71mil) from Top Layer to Bottom Layer And Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer And Via (-3973.547mil,598.221mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer And Via (-3973.547mil,598.221mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-3956.814mil,576.394mil) from Top Layer to Bottom Layer And Via (-3973.547mil,598.221mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,547.75mil) from Top Layer to Bottom Layer And Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,547.75mil) from Top Layer to Bottom Layer And Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,547.75mil) from Top Layer to Bottom Layer And Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer And Via (-4788.818mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer And Via (-4788.818mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-4772.086mil,575.435mil) from Top Layer to Bottom Layer And Via (-4788.818mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,547.75mil) from Top Layer to Bottom Layer And Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,547.75mil) from Top Layer to Bottom Layer And Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,547.75mil) from Top Layer to Bottom Layer And Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer And Via (-5606.732mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer And Via (-5606.732mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-5589.999mil,575.435mil) from Top Layer to Bottom Layer And Via (-5606.732mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,547.75mil) from Top Layer to Bottom Layer And Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-704.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-704.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Via (-687.432mil,575.435mil) from Top Layer to Bottom Layer And Via (-704.165mil,597.262mil) from Top Layer to Bottom Layer 
+   Violation between Width Constraint: Between Pad P1-1(-1185.865mil,1854.372mil) on Multi-Layer And Track (-1116.854mil,1796.868mil)(-757.025mil,1796.868mil) on Top Layer 
+Rule Violations :60
 
 Processing Rule : Width Constraint (Min=6mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) Or InNet(UMCU_P) Or InNet('NetD27_1') Or InNet('NetD27_3') Or InNet('NetD27_4') Or InNet('NetD27_6') Or InNet('NetL5_4') Or InNet('NetL5_1')  Or InNet('UD_P') Or InNet('UD_N') Or InNet('NetR42_1') Or InNet('UMCU_N') OR InNet('UMCU_P') Or InNet('NetR48_1'))
 Rule Violations :0
@@ -85,6 +145,6 @@ Processing Rule : Silk primitive without silk layer
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 60
 Waived Violations : 0
-Time Elapsed        : 00:00:09
+Time Elapsed        : 00:01:32
